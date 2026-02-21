@@ -2,17 +2,15 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://dev.recodehive.com/webs">Portfolios</a> -
-  <a href="https://dev.recodehive.com/link">LinkedIn</a> - 
-  <a href="https://dev.recodehive.com/webz">Website</a> 
+  <a href="https://mehnaz-portfolio.netlify.app/">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/mehnaz-sheikh/">LinkedIn</a>   
 </p>
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Software Trainee @Sensation Software Solutions Pvt Ltd. <br>
 ✨ MERN Stack Developer | BCA Final Year Student<br>
-⚡ Check my ✨ [Website](https://dev.recodehive.com/webs)<br>
-📫 How to reach me: [Schedule Call](https://blog.recodehive.com/topmate) <br>
+⚡ Check my ✨ [Resume](https://drive.google.com/file/d/1z5ew8WdHvn1lJGOb7IAX94-kHEj2ofFA/view?usp=sharing)<br>
 
 <!--- Adding Tech Stack open Section -->
 
