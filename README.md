@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Mehnaz Sheikh </h1>
 
-<!--- Adding Header Elements -->
+<!--- Adding Header Element -->
 <p align="center">
   <a href="https://mehnaz-portfolio.netlify.app/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/mehnaz-sheikh/">LinkedIn</a>   
